@@ -1,2 +1,2 @@
 # DevFolio
-# https://hungry-hermann-020031.netlify.app/
+# https://faresahmed1153.github.io/DevFolio/

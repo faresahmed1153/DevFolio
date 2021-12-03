@@ -1,3 +1,10 @@
+/*
+ 
+da link assignment Fokir 34an mgalesh FeedBack 
+
+https://drive.google.com/file/d/1wlTUHqS1bA1wJDpwhiHK8oPiDw2QWkTr/view?usp=sharing
+
+ */
 .home {
   background-image: url(Images/intro-bg.jpg);
   background-size: cover;
@@ -224,6 +231,13 @@ ion-icon {
 .btns {
   position: absolute;
   top: 25rem;
+}
+
+.idicator-btn {
+  width: 22px !important;
+  height: 7px !important;
+  border-radius: 40% !important;
+  margin: 0 4px !important;
 }
 
 .item3 {
